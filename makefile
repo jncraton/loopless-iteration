@@ -5,3 +5,6 @@ squares: squares.c
 
 run: squares
 	./squares 400
+
+clean:
+	rm squares
